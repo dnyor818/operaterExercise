@@ -1,0 +1,13 @@
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.exe
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.deps.json
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.runtimeconfig.json
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.runtimeconfig.dev.json
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.dll
+C:\Users\gnyork\source\repos\operaterExercise\bin\Debug\netcoreapp3.1\operaterExercise.pdb
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.csprojAssemblyReference.cache
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.AssemblyInfoInputs.cache
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.AssemblyInfo.cs
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.csproj.CoreCompileInputs.cache
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.dll
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.pdb
+C:\Users\gnyork\source\repos\operaterExercise\obj\Debug\netcoreapp3.1\operaterExercise.genruntimeconfig.cache
